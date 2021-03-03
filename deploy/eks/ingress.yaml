@@ -13,4 +13,4 @@ spec:
           - path: /
             backend:
               serviceName: data-service
-              servicePort: 5000
+              servicePort: 80
